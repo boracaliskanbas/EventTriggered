@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{BAAE7EB1-ACF6-AC46-E8C0-3775F74EE535}") = "ReachKral2-master", "Assembly-CSharp.csproj", "{8380A748-C0EC-F8F3-A07C-A236661742D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8380A748-C0EC-F8F3-A07C-A236661742D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8380A748-C0EC-F8F3-A07C-A236661742D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8380A748-C0EC-F8F3-A07C-A236661742D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8380A748-C0EC-F8F3-A07C-A236661742D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
